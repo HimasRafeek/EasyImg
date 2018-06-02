@@ -5,12 +5,13 @@ EasyImg Is a jQuery Plugin created to add Inline Background Images Easily
 
 ```html
 <div data-img="bg.jpg"> </div>
-
+```
 
 ## Js
+
 ```javascript
 $.easyImg();
-
+```
 
 ## Default options Applied
 
@@ -19,7 +20,7 @@ $.easyImg({
   baseFolder: './images/'  // Default
   selector: 'data-img'  // Default
 });
-
+```
 
 ## Default Styles Applied
 
@@ -27,7 +28,7 @@ $.easyImg({
   background-size: cover;
   background-position: center bottom;
   background-repeat: no-repeat;
-
+```
 
 # More Options coming soon.
 ## Thank you.
